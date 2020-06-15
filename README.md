@@ -1,7 +1,7 @@
-#Projeto cotações
+# Projeto cotações
 
-#para executar configure as denpendências
+# para executar configure as denpendências
 `npm i`
 
-#depois
+# depois
 `npm start`
